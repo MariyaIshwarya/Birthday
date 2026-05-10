@@ -31,13 +31,15 @@ cd Birthday-Card
 ---
 
 ## 📂 Project Structure
+
+```bash
 Birthday-Card/
 │
 ├── index.html
 ├── style.css
 ├── script.js
 └── assets/
----
+```
 
 ## 💡 About the Project
 This was my first HTML project, built as a birthday surprise for my close friend.
