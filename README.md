@@ -28,8 +28,7 @@ git clone <your-repository-link>
 cd Birthday-Card
 
 3. Run the project by opening index.html in your browser.
-
-
+---
 
 ## 📂 Project Structure
 Birthday-Card/
@@ -38,6 +37,7 @@ Birthday-Card/
 ├── style.css
 ├── script.js
 └── assets/
+---
 
 ## 💡 About the Project
 This was my first HTML project, built as a birthday surprise for my close friend.
@@ -47,12 +47,14 @@ Through this project, I learned:
 * JavaScript interactions
 * Frontend design fundamentals
 This project became the starting point of my web development journey.
+---
 
 ## 🌟 Future Improvements
 * Add more animations
 * Add background music
 * Add customizable themes
 * Improve responsiveness
+---
 
 ## ❤️ Special Note
 Made with love as my very first web development project.
